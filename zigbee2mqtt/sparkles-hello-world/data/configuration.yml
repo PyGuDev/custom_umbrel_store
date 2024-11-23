@@ -1,0 +1,53 @@
+homeassistant:
+  legacy_entity_attributes: true
+  legacy_triggers: true
+frontend: true
+mqtt:
+  base_topic: zigbee2mqtt
+  server: mqtt://mqtt5
+  user: mqtt
+  password: zigbee2mqtt
+serial:
+  port: /dev/ttyACM0
+advanced:
+  network_key:
+    - 148
+    - 22s
+    - 21
+    - 34
+    - 8
+    - 82
+    - 217
+    - 209
+    - 158
+    - 158
+    - 102
+    - 203
+    - 119
+    - 191
+    - 115
+    - 101
+  pan_id: 10538
+  ext_pan_id:
+    - 175
+    - 84
+    - 235
+    - 190
+    - 148
+    - 68
+    - 82
+    - 139
+  homeassistant_legacy_entity_attributes: false
+  legacy_api: false
+  legacy_availability_payload: false
+device_options:
+  legacy: false
+devices:
+  '0xa4c13847940caf8b':
+    friendly_name: TuYa th
+  '0xa4c13844a197f49b':
+    friendly_name: Реле вытяжка
+  '0x00124b00292b4a26':
+    friendly_name: sonoff snzb-02
+  '0x00158d000a9801d3':
+    friendly_name: mi switch
