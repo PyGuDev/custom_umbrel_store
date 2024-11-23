@@ -13,7 +13,7 @@ description: >-
 
 developer: pygudev
 submitter: pygudev
-submission: hhttps://github.com/PyGuDev/custom_umbrel_store/tree/master/zigbee2mqtt
+submission: https://github.com/PyGuDev/custom_umbrel_store/tree/master/zigbee2mqtt
 repo: https://github.com/PyGuDev/custom_umbrel_store/tree/master/zigbee2mqtt
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
