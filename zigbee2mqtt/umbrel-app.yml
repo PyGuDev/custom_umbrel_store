@@ -13,9 +13,8 @@ description: >-
 
 developer: pygudev
 submitter: pygudev
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+submission: hhttps://github.com/PyGuDev/custom_umbrel_store/tree/master/zigbee2mqtt
+repo: https://github.com/PyGuDev/custom_umbrel_store/tree/master/zigbee2mqtt
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
